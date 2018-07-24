@@ -7,15 +7,15 @@ telegramApi.setConfig({
     server: {
         test: [
             {
-                id: 2,
-                host: '149.154.167.40',
+                id: 5,
+                host: '91.108.56.115',
                 port: '443'
             }
         ],
         production: [
             {
-                id: 2,
-                host: '149.154.167.50',
+                id: 5,
+                host: '91.108.56.115',
                 port: '443'
             }
         ]
